@@ -1,8 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "Sample Function",
-    "shortName": "func",
-    "sortOrder": 1
-  }
-]
+[{"id":1,"name":"Integration platform","shortName":"inpl","sortOrder":1},{"id":2,"name":"Combination matrix","shortName":"coma","sortOrder":2},{"id":3,"name":"Customer portal","shortName":"cupo","sortOrder":3},{"id":4,"name":"Hub","shortName":"hub","sortOrder":4}]
